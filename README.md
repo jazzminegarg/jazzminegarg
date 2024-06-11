@@ -24,12 +24,17 @@
 <br>
 <br>
 
-<div align="center">
+
+<div align="right">
+  <img align="left" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWU2NTBqZjltdGU0NXhvczlla3Vsd3BmcnYzcG04eHA5MXV4MGNiMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gdWuHK4952QBq/giphy.gif"  />
   <a href="https://open.spotify.com/user/31zpzqdgolbtoxk4ssmj6hgsytmm">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31zpzqdgolbtoxk4ssmj6hgsytmm&count=5" alt="Spotify recently played"  />
   </a>
 </div>
 <br><br><br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jazzminegarg&show_icons=true&locale=en&layout=compact" alt="jazzminegarg" /></p>
+<div class="images">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jazzminegarg&show_icons=true&locale=en&layout=compact&theme=dark" alt="jazzminegarg" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=jazzminegarg&show_icons=true&locale=en&theme=dark" alt="jazzminegarg" />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jazzminegarg&show_icons=true&locale=en" alt="jazzminegarg" /></p>
+
