@@ -28,7 +28,6 @@
 <br>
 <br/>
 
-![snake gif](https://github.com/jazzminegarg/jazzminegarg/blob/output/github-contribution-grid-snake.gif)
 
 <div align="right">
   <img align="left" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWU2NTBqZjltdGU0NXhvczlla3Vsd3BmcnYzcG04eHA5MXV4MGNiMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gdWuHK4952QBq/giphy.gif"  />
@@ -42,3 +41,6 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=jazzminegarg&show_icons=true&locale=en&theme=dark" alt="jazzminegarg" />
 </div>
 
+<div align="center">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/jazzminegarg/jazzminegarg/output/github-contribution-grid-snake-dark.svg" />
+</div>
