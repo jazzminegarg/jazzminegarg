@@ -60,7 +60,7 @@
 <br/>
 <div class="images" align="center">
   <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=jazzminegarg&show_icons=true&locale=en&layout=compact&theme=dark" alt="jazzminegarg" height="200">
-  <img  src="https://github-readme-stats.vercel.app/api?username=jazzminegarg&show_icons=true&locale=en&theme=dark" alt="jazzminegarg" height="200">
+<!--   <img  src="https://github-readme-stats.vercel.app/api?username=jazzminegarg&show_icons=true&locale=en&theme=dark" alt="jazzminegarg" height="200"> -->
 </div>
 
 <hr/>
