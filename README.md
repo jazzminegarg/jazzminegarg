@@ -1,4 +1,3 @@
-
 <img align="right" src="https://komarev.com/ghpvc/?username=jazzminegarg&label=Profile%20views&color=0e75b6&style=flat" alt="jazzminegarg" /> 
 
 <h1 align="center">
@@ -17,12 +16,11 @@
 
 📫 How to reach me **jgarg1_be22@thapar.edu**
 
+🌐 Check out my portfolio: [jasminegarg.vercel.app](https://jasminegarg.vercel.app/)
 
 </div>
 </div>
-<div> 
-    <a href="https://jasminegarg.vercel.app/"> **MY PORTFOLIO WEBSITE** </a>
-</div>
+
 <div align="center"> 
   <a href="mailto:jgarg1_be22@thapar.edu">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -32,12 +30,10 @@
   </a>
   <a href="https://www.kaggle.com/jazzminegarg" target="_blank">
      <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
- <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
 
- <hr/>
-
+<hr/>
 
 <h2 align="center">Languages and Tools ⚒️ :</h2>
 <br/>
