@@ -17,7 +17,11 @@
 
 📫 How to reach me **jgarg1_be22@thapar.edu**
 
+
 </div>
+</div>
+<div> 
+    <a href="https://jasminegarg.vercel.app/"> **MY PORTFOLIO WEBSITE** </a>
 </div>
 <div align="center"> 
   <a href="mailto:jgarg1_be22@thapar.edu">
